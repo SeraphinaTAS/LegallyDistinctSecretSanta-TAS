@@ -1,0 +1,165 @@
+# LegallyDistinctSecretSanta
+# https://gamebanana.com/mods/611577
+
+RecordCount: 273
+
+console load LDSS/1-Maps/badtie
+   1
+
+#Start
+ 190
+
+#lvl_Welcome Again.
+  10,L,Z
+   1,R,J
+   4,R
+  11,R,D,X
+   6,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   2,R,J
+   4,R
+   6,R,D,X
+   1,R,J,G
+  11,R
+   6,R,J
+  40
+
+#lvl_Familiarity.
+   2,R,J
+   5,R
+   6,R,J
+   9,R,K
+  15,R,D,X
+   4,R,D
+   1,R,J
+  14,R
+  12,R,J
+  40
+***S
+
+#lvl_Going in Circles.
+  15,R,J
+  15,R,D,K
+   1,R,J,G
+   5,R
+  17,R,D,X
+  15,R,J
+   2,K
+  10,R,K
+  35,R,D
+***S
+
+  16,F,135
+   3,F,132
+   5,F,115.6
+   3,F,100
+   4,F,80
+   2,F,70
+   5,F,45
+   7,F,10
+   5,F,55
+   2,F,70
+   2,F,80
+  21,F,130
+  29,F,87
+  21,R,X
+  11,U,C
+  44,R,J
+   7,R,D
+  10,L,D,X
+   1,R,J
+   4,R
+  17,R,D,X
+   1,R,J
+  40,R,D,X
+   9,R,U
+   1,F,56
+   1,F,56.276
+   1,F,62
+   1,F,65.208
+   1,F,66.013
+   1,F,69.7
+   1,F,77
+   9,F,31.746
+   1,F,26.581
+   1,F,27.659
+   9,F,342.376
+   1,F,342.246
+   1,F,336
+   1,F,331.593
+   2,F,320
+   1,F,320.205
+  11,F,20
+  11,F,80
+   1,F,87.659
+   1,F,89
+   1,F,86.502
+   3,F,94
+  16,R,D,X
+  50,R,J
+  20,R,K
+  11,R
+   8,R,Z
+   4,R,J
+   1,R,K,G
+  10,R
+  40
+***S
+
+#lvl_Thorns Out of Roses.
+   1,R
+   1,R,J
+   5,R
+   5,J,G
+   4,R,J
+   1,L,J
+   5,J
+  18,U,X
+  24,L,J
+  12,L,X
+   1,R,J
+   2,R
+  15,R,Z
+***S
+  15,L
+  17,F,264
+   3,F,280
+   3,F,330
+  10,F,10
+  17,F,60
+   1,F,59
+   2,F,0
+  12,R,Z
+   5,R,J
+   3,R
+
+  13,R,D,X
+   1,R,J,G
+   5,R
+   1,R,J
+   7,R
+  36,R,J
+   6,R,D
+  33,L
+  20,L,D
+   1,L,J
+  11,L
+   7,D
+   4,R,D
+   1,D
+   2,R,D
+  17,R,D,X
+   1,R,J
+  16,R,D,X
+  11,R,J
+   5,R
+   2,R
+  14,R
+   3
+  11,L,D,X
+   5,R
+  23,R,J
+  24,U,X
+  20,L,U
